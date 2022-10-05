@@ -1,0 +1,12 @@
+.videoContainer {
+  background: #004fff;
+  margin-top: 40px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.videoContainer video {
+  width: 50%;
+}
